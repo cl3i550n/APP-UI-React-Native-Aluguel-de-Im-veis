@@ -30,7 +30,7 @@ Windows | Linux (Ubuntu)
 npm install
 ```
 
-## ☕ Usando Prototipo | Bottomtabs + Stack Native
+## ☕ Startando
 
 Para startar Prototipo, siga estas etapas:
 
