@@ -1,4 +1,4 @@
-# Trabalho Pessoal | App UI Compra / Alugueis
+# Trabalho Pessoal | App UI Compra / Locação de Casas
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
