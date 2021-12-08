@@ -15,6 +15,12 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Versões utilizadas no projeto `<React Native 0.66.x / NodeJS 16.x / npm 8.x / React Navigation 6.x>`
 * Foi desenvolvido em plataforma `<Windows>`. Não testado para versões em `<IOS>`
 
+```
+--> react-navigation/native: 6.0.6
+--> react-navigation/native-stack: 6.2.5
+--> react-native-vector-icons: 9.0.0
+```
+
 ## 🚀 Instalando
 
 Para instalar o Prototipo, siga estas etapas:
