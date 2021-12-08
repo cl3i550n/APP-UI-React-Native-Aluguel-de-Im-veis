@@ -2,9 +2,9 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
-<a href="https://ibb.co/DCmQ1z3"><img src="https://i.ibb.co/nc4jw6h/AppUI01.png" alt="AppUI01" width="300"></a>
-<a href="https://ibb.co/QPSjLT9"><img src="https://i.ibb.co/K24zdf6/AppUI02.png" alt="AppUI02" width="300"></a>
-<a href="https://ibb.co/VSYd5sg"><img src="https://i.ibb.co/R0T1dq3/AppUI03.png" alt="AppUI03" width="300"></a>
+<a href="https://ibb.co/DCmQ1z3"><img src="https://i.ibb.co/nc4jw6h/AppUI01.png" alt="AppUI01" width="200"></a>
+<a href="https://ibb.co/QPSjLT9"><img src="https://i.ibb.co/K24zdf6/AppUI02.png" alt="AppUI02" width="200"></a>
+<a href="https://ibb.co/VSYd5sg"><img src="https://i.ibb.co/R0T1dq3/AppUI03.png" alt="AppUI03" width="200"></a>
 
 > Trabalho Pessoal
 
