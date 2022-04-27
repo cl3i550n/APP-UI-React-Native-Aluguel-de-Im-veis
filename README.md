@@ -11,8 +11,8 @@
 </div>
   <br>
   
-![GitHub Downloads](https://img.shields.io/github/downloads/cl3i550n/Projeto_AppLabsDoDev/total?style=plastic)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/cl3i550n/Projeto_AppLabsDoDev?style=plastic)
+![GitHub Downloads](https://img.shields.io/github/downloads/cl3i550n/APP-UI-React-Native-Aluguel-de-Imoveis/total?style=plastic)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/cl3i550n/APP-UI-React-Native-Aluguel-de-Imoveis?style=plastic)
 
 <a href="https://ibb.co/DCmQ1z3"><img src="https://i.ibb.co/nc4jw6h/AppUI01.png" alt="AppUI01" width="200"></a>
 <a href="https://ibb.co/QPSjLT9"><img src="https://i.ibb.co/K24zdf6/AppUI02.png" alt="AppUI02" width="200"></a>
